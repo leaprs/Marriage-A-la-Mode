@@ -70,7 +70,12 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30358"
-      } ]
+      } ],
+      "otherContent": [ {
+        "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/4adbb49d8d92e0ceffaa4ab047710d15.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }]
     }, {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30359",
       "@type" : "sc:Canvas",
@@ -93,7 +98,12 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30359"
-      } ]
+      } ],
+      "otherContent": [ {
+        "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/42527163034d1f5378a45616c50f1b64.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }]
     }, {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30360",
       "@type" : "sc:Canvas",
@@ -116,7 +126,12 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30360"
-      } ]
+      } ],
+      "otherContent": [ {
+        "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/626d708bc9c0e242840b4fba154f1382.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }]
     }, {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30361",
       "@type" : "sc:Canvas",
@@ -162,7 +177,12 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30362"
-      } ]
+      } ],
+      "otherContent": [ {
+        "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/7aa2ade8cec44569b5c1c2896b5a36c8.json",
+        "@type": "sc:AnnotationList",
+        "label": "une annotation avec un titre"
+    }]
     } ]
   } ],
   "structures" : [ {
