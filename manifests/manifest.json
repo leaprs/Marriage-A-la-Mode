@@ -3,6 +3,11 @@
   "@id" : "https://leaprs.github.io/Marriage-A-la-Mode/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Engravings from the series Marriage A-la-Mode painted by William Hogarth in 1745",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/search-api/manifests11/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+},
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Engravings by several French artists after the original series Marriage A-la-Mode painted by William Hogarth between 1743 and 1745, housed at the National Gallery in London.",
