@@ -22,6 +22,11 @@
     "label" : "The Marriage A-la-Mode series",
     "canvases" : [ {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30357",
+      "otherContent": [ {
+        "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/97562bf00ab1679b45913f7eea21300d.json",
+        "@type": "sc:AnnotationList",
+        "label": "Example annotations"
+       }],
       "@type" : "sc:Canvas",
       "width" : 4000,
       "height" : 3329,
