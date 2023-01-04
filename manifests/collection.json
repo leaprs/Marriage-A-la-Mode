@@ -1,0 +1,13 @@
+{
+  "id" : "https://leaprs.github.io/Marriage-A-la-Mode/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in leaprs/Marriage-A-la-Mode project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://leaprs.github.io/Marriage-A-la-Mode/manifests/manifest.json",
+    "label" : "Engravings from the series Marriage A-la-Mode painted by William Hogarth in 1745"
+  } ]
+}
