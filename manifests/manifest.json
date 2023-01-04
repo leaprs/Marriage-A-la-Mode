@@ -1,0 +1,248 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://leaprs.github.io/Marriage-A-la-Mode/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Engravings from the series Marriage A-la-Mode painted by William Hogarth in 1745",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Engravings by several French artists after the original series Marriage A-la-Mode painted by William Hogarth between 1743 and 1745, housed at the National Gallery in London.",
+    "@language" : "en"
+  } ],
+  "viewingHint" : "individuals",
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Provided by National Gallery of Art",
+  "logo" : "https://www.nga.gov/etc/designs/ngaweb/images/nga-seal.png",
+  "sequences" : [ {
+    "@type" : "sc:Sequence",
+    "label" : "The Marriage A-la-Mode series",
+    "canvases" : [ {
+      "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30357",
+      "@type" : "sc:Canvas",
+      "width" : 4000,
+      "height" : 3329,
+      "label" : "1. Marriage a la Mode: The Marriage Settlement by Louis Gérard Scotin",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas/resource.json?cultObj:id=30357",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3329,
+          "width" : 4000,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.nga.gov/iiif/9929f9b2-5e6e-4a90-800a-9431f6b361e3",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30357"
+      } ],
+      "otherContent" : [ {
+        "@id" : "http://localhost:8887/annotations_vue1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
+    }, {
+      "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30358",
+      "@type" : "sc:Canvas",
+      "width" : 4000,
+      "height" : 3366,
+      "label" : "2. Marriage a la Mode: The Tête à Tête by Bernard Baron",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas/resource.json?cultObj:id=30358",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3366,
+          "width" : 4000,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.nga.gov/iiif/afa68ae0-5d09-4e5d-9f9a-0fdbf651b9e8",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30358"
+      } ],
+      "otherContent" : [ {
+        "@id" : "http://localhost:8887/annotations_vue2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
+    }, {
+      "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30359",
+      "@type" : "sc:Canvas",
+      "width" : 4000,
+      "height" : 3369,
+      "label" : "3. Marriage a la Mode: The Inspection by Bernard Baron",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas/resource.json?cultObj:id=30359",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3369,
+          "width" : 4000,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.nga.gov/iiif/3f35e72c-9c58-400a-b726-467424c0d2a0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30359"
+      } ],
+      "otherContent" : [ {
+        "@id" : "http://localhost:8887/annotations_vue3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
+    }, {
+      "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30360",
+      "@type" : "sc:Canvas",
+      "width" : 4000,
+      "height" : 3341,
+      "label" : "4. Marriage a la Mode: The Toilette by Simon François Ravenet",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas/resource.json?cultObj:id=30360",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3341,
+          "width" : 4000,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.nga.gov/iiif/68d94cbb-5f11-4f0c-a48a-393d947eb25b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30360"
+      } ],
+      "otherContent" : [ {
+        "@id" : "http://localhost:8887/annotations_vue4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
+    }, {
+      "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30361",
+      "@type" : "sc:Canvas",
+      "width" : 4000,
+      "height" : 3340,
+      "label" : "5. Marriage a la Mode: The Bagnio by Simon François Ravenet",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas/resource.json?cultObj:id=30361",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3340,
+          "width" : 4000,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.nga.gov/iiif/3cd43e92-bd96-494d-9978-a540756b7662",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30361"
+      } ],
+      "otherContent" : [ {
+        "@id" : "http://localhost:8887/annotations_vue5.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
+    }, {
+      "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30362",
+      "@type" : "sc:Canvas",
+      "width" : 4000,
+      "height" : 3351,
+      "label" : "6. Marriage a la Mode:  The Lady's Death by Louis Gérard Scotin",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas/resource.json?cultObj:id=30362",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3351,
+          "width" : 4000,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.nga.gov/iiif/1db8570d-dbdf-4558-9bc1-ad3f75a1bfc5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30362"
+      } ],
+      "otherContent" : [ {
+        "@id" : "http://localhost:8887/annotations_vue6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/r0",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents",
+    "members" : [ {
+      "@id" : "http://example.org/iiif/book1/range/r1",
+      "@type" : "sc:Range",
+      "label" : "First engraving: The Marriage Settlement"
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/r2",
+      "@type" : "sc:Range",
+      "label" : "Second engraving: The Tête à Tête"
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/r3",
+      "@type" : "sc:Range",
+      "label" : "Third engraving: The Inspection"
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/r4",
+      "@type" : "sc:Range",
+      "label" : "Fourth engraving: The Toilette"
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/r5",
+      "@type" : "sc:Range",
+      "label" : "Fifth engraving: The Bagnio"
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/r6",
+      "@type" : "sc:Range",
+      "label" : "Sixth engraving: The Lady's Death"
+    } ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r1",
+    "@type" : "sc:Range",
+    "label" : "First engraving: The Marriage Settlement",
+    "canvases" : [ "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30357" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r2",
+    "@type" : "sc:Range",
+    "label" : "Second engraving: The Tête à Tête",
+    "canvases" : [ "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30358" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r3",
+    "@type" : "sc:Range",
+    "label" : "Third engraving: The Inspection",
+    "canvases" : [ "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30359" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r4",
+    "@type" : "sc:Range",
+    "label" : "Fourth engraving: The Toilette",
+    "canvases" : [ "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30360" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r5",
+    "@type" : "sc:Range",
+    "label" : "Fifth engraving: The Bagnio",
+    "canvases" : [ "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30361" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r6",
+    "@type" : "sc:Range",
+    "label" : "Sixth engraving: The Lady's Death",
+    "canvases" : [ "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30362" ]
+  } ]
+}
