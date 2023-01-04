@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest.json?cultObj:id=30357",
+    "@id": "https://leaprs.github.io/Marriage-A-la-Mode/manifests/manifest.json",
     "@type": "sc:Manifest",
     "label": "Engravings from the series Marriage A-la-Mode painted by William Hogarth in 1745",
     "service": {
