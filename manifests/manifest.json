@@ -37,11 +37,6 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30357"
-      } ],
-      "otherContent" : [ {
-        "@id" : "http://localhost:8887/annotations_vue1.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30358",
@@ -65,11 +60,6 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30358"
-      } ],
-      "otherContent" : [ {
-        "@id" : "http://localhost:8887/annotations_vue2.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30359",
@@ -93,11 +83,6 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30359"
-      } ],
-      "otherContent" : [ {
-        "@id" : "http://localhost:8887/annotations_vue3.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30360",
@@ -121,11 +106,6 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30360"
-      } ],
-      "otherContent" : [ {
-        "@id" : "http://localhost:8887/annotations_vue4.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30361",
@@ -149,11 +129,6 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30361"
-      } ],
-      "otherContent" : [ {
-        "@id" : "http://localhost:8887/annotations_vue5.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30362",
@@ -177,11 +152,6 @@
           }
         },
         "on" : "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=30362"
-      } ],
-      "otherContent" : [ {
-        "@id" : "http://localhost:8887/annotations_vue6.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
       } ]
     } ]
   } ],
